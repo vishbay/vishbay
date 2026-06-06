@@ -1,6 +1,6 @@
 # vishbay
 
-**SRE → AIOps** · Building AI tooling for production systems · Learning AI engineering in public
+**SRE → AIOps** · Building AI tooling for production systems · Open Source
 
 ---
 
