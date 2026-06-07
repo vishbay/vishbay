@@ -53,13 +53,6 @@ If you're working in the same space — production AI tooling, SRE automation, o
 
 ---
 
-## GitHub Stats
-
-<!--
-  To enable stats, replace YOUR_GITHUB_TOKEN with a read-only public token
-  or simply delete this section if you prefer a cleaner look.
-  These widgets are served by github-readme-stats.vercel.app
--->
 
 ![vishbay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishbay&show_icons=true&hide_border=true&theme=github_dark&hide=contribs&count_private=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishbay&layout=compact&hide_border=true&theme=github_dark)
