@@ -4,27 +4,6 @@
 
 ---
 
-## About
-
-I'm a Site Reliability Engineer with a decade-plus of keeping production systems running — on-prem Linux, enterprise batch workloads, the works. Right now I'm deep in a large-scale **on-prem → GCP cloud migration**, handling monitoring, runbooks, and support procedures for enterprise workloads moving to the cloud.
-
-Since early 2026 I've been going all-in on AI-assisted development. I moved from vibe coding to what I call **intent coding** — building real tools with clear purpose, using LLMs to accelerate without losing control of what you're building. Every project here started as a real problem I hit at work.
-
----
-
-## Stack
-
-**Infrastructure & Ops**  
-`Linux` `GCP` `AWS` `Shell scripting` `Splunk` `Autosys` `Apache Airflow` `Oracle` `SQL`
-
-**Building with**  
-`Python` `Vue.js` `Streamlit` `Claude API`
-
-**Certified**  
-AWS Solutions Architect – Associate
-
----
-
 ## Featured: cram-ai
 
 > *Stop paying to orient your AI.*
