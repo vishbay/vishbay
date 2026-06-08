@@ -33,9 +33,4 @@ If you're working in the same space — production AI tooling, SRE automation, o
 ---
 
 
-![vishbay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishbay&show_icons=true&hide_border=true&theme=github_dark&hide=contribs&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishbay&layout=compact&hide_border=true&theme=github_dark)
 
----
-
-*Chicago, IL*
