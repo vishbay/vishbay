@@ -16,7 +16,7 @@ pip install 'cram-ai[mcp]' && cram audit
 ```
 
 [![PyPI](https://img.shields.io/pypi/v/cram-ai?style=flat&color=8a3ffc)](https://pypi.org/project/cram-ai)
-[![License: MIT](https://img.shields.io/badge/License-MIT-0f766e.svg?style=flat)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-0f766e.svg?style=flat)](https://opensource.org/licenses/Apache-2.0)
 
 Currently running a two-week A/B experiment on my own workflow to test whether
 the tool's original idea survives contact with measurement. Publishing the
