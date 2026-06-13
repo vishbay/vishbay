@@ -1,7 +1,7 @@
 # Vish Bayavarapu
 
 I hit a hard monthly token budget doing ordinary work with an AI coding agent.
-Instead of waiting for the limit to reset, I started measuring where every token
+Following month, I started measuring where every token
 went. That turned into an obsession with **AI engineering** — and everything below.
 
 ## Now
