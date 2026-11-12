@@ -39,4 +39,4 @@ local models on a MacBook Air that deserves better
 
 ---
 
-*Python, mostly. Opinions here are measurements in disguise.*
+*Opinions here are measurements in disguise.*
