@@ -24,11 +24,6 @@ pip install 'cram-ai[mcp]' && cram audit
 at a time. Explore architectures, watch requests flow hop by hop, and practise your
 own designs. [Try it live](https://vishbay.github.io/archstory/).
 
-## Learning in public
-
-prompt-cache economics · agent observability · MCP servers · evals ·
-local models on a MacBook Air that deserves better
-
 ---
 
 *Opinions here are measurements in disguise.*
