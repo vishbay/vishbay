@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://pypi.org/project/cram-ai"><img alt="PyPI" src="https://img.shields.io/pypi/v/cram-ai?style=flat&color=8a3ffc&label=cram-ai"></a>
-  <img alt="Location" src="https://img.shields.io/badge/Chicago%2C_IL-555?style=flat&logo=googlemaps&logoColor=white">
   <img alt="License" src="https://img.shields.io/badge/License-Apache_2.0-0f766e?style=flat">
 </p>
 
