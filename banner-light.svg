@@ -18,7 +18,7 @@
   <rect width="900" height="200" rx="14" fill="url(#bg)"/>
   <text x="48" y="92" class="t fade" font-size="46" font-weight="700" fill="#1f2328">Vish Bayavarapu</text>
   <rect x="48" y="108" width="120" height="4" rx="2" fill="url(#ac)" class="bar"/>
-  <text x="48" y="150" class="t fade d2" font-size="20" fill="#57606a">Measuring where AI agent tokens go.</text>
+  <text x="48" y="150" class="t fade d2" font-size="20" fill="#57606a">Harness Engineering · AIOps · Agent Observability</text>
   <g class="fade d2" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15" fill="#0f766e">
     <text x="840" y="58" text-anchor="end">$ cram audit</text>
   </g>

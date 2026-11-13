@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img alt="Vish Bayavarapu — measuring where AI agent tokens go" src="banner-light.svg" width="100%">
+  <img alt="Vish Bayavarapu — Harness Engineering, AIOps, Agent Observability" src="banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
