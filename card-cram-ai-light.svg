@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160">
+  <rect x=".5" y=".5" width="419" height="159" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+  <style>.t{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+  <rect x="24" y="22" width="3" height="18" rx="1.5" fill="#8a3ffc"/>
+  <text x="36" y="37" class="t" font-size="17" font-weight="600" fill="#0969da">cram-ai</text>
+  <text x="24" y="66" class="t" font-size="13" fill="#59636e">The profiler and referee for AI coding-agent</text><text x="24" y="86" class="t" font-size="13" fill="#59636e">tokens. Audit where spend goes (Claude Code,</text><text x="24" y="106" class="t" font-size="13" fill="#59636e">Cursor, Codex), get evidence-backed fixes, and</text><text x="24" y="126" class="t" font-size="13" fill="#59636e">verify they worked with cram rig.</text>
+  <circle cx="30" cy="140" r="6" fill="#3572A5"/>
+  <text x="42" y="144" class="t" font-size="12" fill="#59636e">Python</text>
+</svg>
